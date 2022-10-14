@@ -60,6 +60,5 @@ input {
     left: 0;
     height: 100%;
     width: 100%;
-    background: linear-gradient(rgb(7, 7, 7),rgba(0, 0, 0,.425) );
-    z-index:-2;
+    background: linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0.345) );
 }
